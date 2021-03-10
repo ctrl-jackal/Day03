@@ -6,7 +6,7 @@ function main() {
     This is part of multi-line comment 
     This is part of multi-line comment 
     This is part of multi-line comment  */
-    // Only change code below this line
+    // Only change code above this line
 }
 
 console.log(main());
